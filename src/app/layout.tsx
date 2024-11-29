@@ -23,7 +23,7 @@ const theJamsil = localFont({
 
 export const metadata: Metadata = {
   title: 'Neo-Quesdon',
-  description: '세라복.모에의 새로운 Quesdon',
+  description: '새로운 Quesdon',
 };
 
 export const viewport: Viewport = {

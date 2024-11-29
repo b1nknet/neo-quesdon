@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function GithubRepoLink() {
   return (
     <div className="flex flex-col gap-2">
-      <Link href="https://github.com/serafuku/neo-quesdon" className="flex items-center gap-2 opacity-70">
+      <Link href="https://github.com/b1nknet/neo-quesdon" className="flex items-center gap-2 opacity-70">
         <div>
           <svg
             width="15"
